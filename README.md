@@ -4,7 +4,7 @@ Welcome to the repository for the Laser Loon, a public domain design created as 
 
 ## About the Laser Loon 🦢
 
-The Laser Loon design is an original illustration inspired by Minnesota’s natural beauty and cultural heritage. Created with the intent to celebrate the state’s identity, the image prominently features:
+The Laser Loon design is an original illustration inspired by Minnesota’s natural beauty, cultural heritage, and partially by the iconic New Zealand Kiwi Laser Flag. Created with the intent to celebrate the state’s identity, the image prominently features:
 
 - A stylized loon, Minnesota's state bird, depicted with dynamic and modern lines.
 - Elements that evoke the state's lakes and wilderness.
@@ -46,11 +46,9 @@ If you love the Laser Loon design and want to show your Minnesota pride, you can
 ## How to Use the Design 🚀
 
 1. Clone or download this repository:
-
    ```bash
-   git clone https://github.com/yourusername/laser-loon.git
+   git clone https://github.com/fderuiter/Laser_Loon
    ```
-
 2. Navigate to the `files/` directory to find the different formats.
 3. Use the file format that best fits your needs. Modify freely as allowed under the public domain dedication.
 
@@ -61,7 +59,3 @@ While contributions to the design are not required, you are welcome to submit su
 ## Disclaimer ⚠️
 
 The Laser Loon design is provided "as-is" without warranty of any kind. By using this design, you accept all liability for its use.
-
----
-
-Thank you for your interest in the Laser Loon design! If you have any questions or want to share how you’ve used the design, feel free to open an issue or get in touch. 💌
