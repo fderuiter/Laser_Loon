@@ -1,6 +1,6 @@
-# 🚀 Laser Loon - Minnesota Flag Redesign 🦢
+# Laser Loon - Minnesota Flag Redesign
 
-🎉 Welcome to the **Laser Loon** repository. This repository contains the Laser Loon design, inspired by Minnesota’s state identity and the New Zealand Kiwi Laser Flag. 🏆
+Welcome to the **Laser Loon** repository. This repository contains the Laser Loon design, inspired by Minnesota’s state identity and the New Zealand Kiwi Laser Flag.
 
 ---
 
